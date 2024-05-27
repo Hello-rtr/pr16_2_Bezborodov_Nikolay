@@ -1,0 +1,7 @@
+D:\Desktop\c#\prakt_16\prakt_16_(3zd)\prakt_16_(3zd)\bin\Debug\prakt_16_(3zd).exe.config
+D:\Desktop\c#\prakt_16\prakt_16_(3zd)\prakt_16_(3zd)\bin\Debug\prakt_16_(3zd).exe
+D:\Desktop\c#\prakt_16\prakt_16_(3zd)\prakt_16_(3zd)\bin\Debug\prakt_16_(3zd).pdb
+D:\Desktop\c#\prakt_16\prakt_16_(3zd)\prakt_16_(3zd)\obj\Debug\prakt_16_(3zd).csproj.AssemblyReference.cache
+D:\Desktop\c#\prakt_16\prakt_16_(3zd)\prakt_16_(3zd)\obj\Debug\prakt_16_(3zd).csproj.CoreCompileInputs.cache
+D:\Desktop\c#\prakt_16\prakt_16_(3zd)\prakt_16_(3zd)\obj\Debug\prakt_16_(3zd).exe
+D:\Desktop\c#\prakt_16\prakt_16_(3zd)\prakt_16_(3zd)\obj\Debug\prakt_16_(3zd).pdb
